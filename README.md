@@ -1,8 +1,6 @@
 # OpenCV-3.4.3
-
-## Pre-installation:
-- Here, opencv and opencv_contrib are of version 3.4.3.
-- Open a terminal in the "opencv" directory
+Here, opencv and opencv_contrib are of version 3.4.3.  
+Open a terminal in the "opencv" directory
 
 ## Install Dependencies:
 - sudo apt-get update
