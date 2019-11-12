@@ -3,9 +3,9 @@ Here, opencv and opencv_contrib are of version 3.4.3
 
 ## Required:
 Linux  
-Open a terminal in the "opencv" directory
 
 ## Install Dependencies:
+Open a terminal in the "opencv" directory  
 - sudo apt-get update
 - sudo apt-get upgrade
 - sudo apt-get install build-essential cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
