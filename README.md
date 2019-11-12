@@ -1,5 +1,8 @@
 # OpenCV-3.4.3
-Here, opencv and opencv_contrib are of version 3.4.3.  
+Here, opencv and opencv_contrib are of version 3.4.3
+
+## Required:
+Linux  
 Open a terminal in the "opencv" directory
 
 ## Install Dependencies:
@@ -21,7 +24,7 @@ Open a terminal in the "opencv" directory
 - pkg-config --modversion opencv
 
 ## Testing:
-- Open a terminal in the "TestME" directory
+Open a terminal in the "TestME" directory  
 - mkdir build
 - cd build
 - cmake ..
